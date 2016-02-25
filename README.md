@@ -1,6 +1,6 @@
 # Draw-Your-Neighborhood
 
-In 2015 we asked DNAinfo readers in New York City and Chicago to draw their neighborhood boundaries. More than 39,000 readers responded, giving us a detailed look at how city residents view their neighborhoods. These are their individual drawings in geojson format.
+In 2015 we asked DNAinfo readers in [New York City](https://www.dnainfo.com/new-york/20150811/midtown/draw-where-you-think-your-neighborhood-borders-are-on-this-map) and [Chicago](https://www.dnainfo.com/chicago/20150812/wicker-park/draw-your-neighborhood-borders-think-you-know-chicago-time-prove-it) to draw their neighborhood boundaries. More than 39,000 readers responded, giving us a detailed look at how city residents view their neighborhoods. These are their individual drawings in geojson format.
 
 ## Credit
 These drawings were collected by [DNAinfo.com](http://www.dnainfo.com) and [NiJeL](http://nijel.org/).
